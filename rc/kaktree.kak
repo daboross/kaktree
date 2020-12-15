@@ -195,6 +195,7 @@ define-command -hidden kaktree--display %{ nop %sh{
 
 define-command -docstring "kaktree-focus: Focus Kaktree client" \
 kaktree-focus %{ try %{
+    set-option global kaktree__jumpclient %val{client}
     focus kaktreeclient
 }}
 
