@@ -1,3 +1,18 @@
+# kaktree - daboross
+
+This is my personal fork of kaktree, which I'm updating to some extent.
+
+This is not a commitment to maintenance, but I do currently use kaktree! If you
+would like to as well, please feel free to use. I'll also review and accept PRs,
+though probably only for bugfixes.
+
+If I don't continue maintaining this, I'll probably want to build a replacement
+at some point. Feel free to open issues regarding ideas and such!
+
+----
+
+Original README:
+
 # THIS PLUGIN IS NOT ACTIVELY MAINTAINED. FOR MORE DETAILS PLEASE SEE [THIS DISCOURSE POST](https://discuss.kakoune.com/t/maintainance-warning-and-request)
 
 # kaktree
